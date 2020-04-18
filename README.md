@@ -1,4 +1,4 @@
-# Calm Web for 1Blocker
+# 😌 Calm Web for 1Blocker
 __Custom rules to remove various annoyances with 1Blocker.__
 
 Calm Web is a 1Blocker extension that removes clutter, confusion, and advertisements not typically blocked by 1Blocker or other content blockers.
