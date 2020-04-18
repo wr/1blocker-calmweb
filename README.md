@@ -9,7 +9,7 @@ This is a work in progress, and can only be updated manually. So **★ Star** th
 
 ## Download
 
-<a href="https://raw.githubusercontent.com/wr/1blocker-calmweb/master/Calm%20Web.1blockpkg" download><img src="https://raw.githubusercontent.com/wr/1blocker-calmweb/master/dl.png" height="53" alt="download button"></a>
+<a href="https://raw.githubusercontent.com/wr/1blocker-calmweb/master/Calm%20Web.1blockpkg" download><img src="https://raw.githubusercontent.com/wr/1blocker-calmweb/master/dl.png" height="48" alt="download button"></a>
 
 Simply download and double-click on the file and 1Blocker will install it automatically.
 
