@@ -1,0 +1,178 @@
+[
+  {
+    "id": "954aa37e-95ef-4dc0-a6d7-7790a90d82b0",
+    "name": "Calm Web",
+    "rules": [
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": "#nav-upnav .nav-a, #nav-upnav, #pageContent, #productAlert_feature_div, #percolate-ui-ilm_div, #hqpWrapper, #center-28_feature_div, #dpx-giveaway_feature_div, #rhf, #nav-xshop > *, #icp-nav-flyout, #nav-link-prime, #sc-new-upsell, #cart-recs-carousel, #cart-item-recs, .prime-ad-banner-content, .recsWidgetContainer, #bia-hcb-widget, .nav-template.nav-flyout-sidePanel-content, .navFooterMoreOnAmazon, #bia_content, #vse-related-videos, .similarities-widget, .sims-carousel-holder, #ask-dp-search_feature_div, #nav-subnav, #nav-global-location-slot, #nav-xshop, #nav-main, #issuancePriceblockAmabot_feature_div, #mbb_feature_div, #navFooter, #smileEligibility_feature_div, #alternativeOfferEligibilityMessaging_feature_div, #image-canvas-caption, #edpIngress_feature_div, #digitalDashLowProminenceAccordion_feature_div, #addToWishlistAccordion_feature_div, #tradeInButton_feature_div, #moreBuyingChoices_feature_div, #olpLinkWidget_feature_div, #va-related-videos-widget_feature_div, #giveaway_feature_div, #ourprice_shippingmessage, #detailPageGifting_feature_div, #secureTransaction_feature_div"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*amazon.com"
+            ]
+          }
+        },
+        "name": "Hide Amazon.com annoyances",
+        "id": "d3f7a168-2553-4b89-bf3f-57f4e93e48b4"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": "#overview-right-column .CardView.adviceWidget, .HypothesisTestingView, .w2sWidget, .TopTxnOfferWidgetContainer, .TopTxnOfferWidget, .promotions-personalized-offers-ui, .promotions-personalized-offers-ui-single-offer, .offerSection, .offerContainer, .attr-upsell, .UpsellCards, .UpsellCard, .adviceWidget, .nr-side-widget-opener, .nr-side-widget, .accounts-adv"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*mint.intuit.com"
+            ]
+          }
+        },
+        "name": "Hide Mint.com annoyances",
+        "id": "aa21c3ff-c1bd-42a2-a24c-3678662145af"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": ".announcementBar, .announcementBarPlaceholder, .featureDealsAndCoupons, .giveawayItem, .abc, #sideColumn, .fpNewsAndArticles, .footer, #footer, .ab, .afsLeft, .afscontainer, .omegaBanner, #omegaBanner, #personalizedWidget, #dealAlertsForYou, .categoryBarPlaceholder, #categoryBar"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*slickdeals.net"
+            ]
+          }
+        },
+        "name": "Hide Slickdeals.net annoyances",
+        "id": "0a43ebb8-b71d-455d-a420-311d763fe332"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": ".account-summary-ad, .ads-tiles, .merchant-funded-offers"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*chase.com"
+            ]
+          }
+        },
+        "name": "Hide Chase.com annoyances",
+        "id": "d1e2ea4a-dfd1-4787-a14e-983edaef4680"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": "#adContainer, #adDesktopWrapperContainer"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*target.com"
+            ]
+          }
+        },
+        "name": "Hide Chase.com annoyances",
+        "id": "401eb708-d66c-4f8d-b832-1975626b2f7f"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": "#google_ads_iframe*"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*"
+            ]
+          }
+        },
+        "name": "Hide Google ads",
+        "id": "e7e2e5c3-2ce0-4f0d-b354-9b8fcb98d491"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": ".promotedlink"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*.reddit.com"
+            ]
+          }
+        },
+        "name": "Hide Reddit ads",
+        "id": "55951461-fe9d-41d3-8be8-e1e8ec6824d5"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": "#guide-products, .tan_box.side_box, #fContainer, .utility"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*.macrumors.com"
+            ]
+          }
+        },
+        "name": "Hide Macrumors.com Annoyances",
+        "id": "2792df3d-2c35-4394-9cfc-3d4bb821a3b2"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": ".top-slot, .pro-cta, .pro-cta.visible, .side-slot"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*.gfycat.com"
+            ]
+          }
+        },
+        "name": "Hide Gfycat.com Annoyances",
+        "id": "41f64635-c398-49d6-a5c6-05b1764ec4c1"
+      },
+      {
+        "content": {
+          "action": {
+            "type": "css-display-none",
+            "selector": ".tp-modal, .tp-backdrop, .tp-active"
+          },
+          "trigger": {
+            "url-filter-is-case-sensitive": true,
+            "url-filter": ".*",
+            "if-domain": [
+              "*.businessinsider.com"
+            ]
+          }
+        },
+        "name": "Hide BusinessInsider.com Annoyances",
+        "id": "af6b2aa7-823f-45cf-a939-2e6b55a80f61"
+      }
+    ]
+  }
+]
