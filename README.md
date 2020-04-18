@@ -7,7 +7,11 @@ You can [read my journal entry](http://hi@wells.ee/journal/2020-04-21-1blocker-c
 
 This is a work in progress, and can only be updated manually. So **★ Star** this repo if you want to subscribe to updates.
 
-Simply download the [Calm Web.1blockpkg](https://raw.githubusercontent.com/wr/1blocker-calmweb/master/Calm%20Web.1blockpkg) file by right-clicking on the URL to the left and selecting "Save as…" in the context menu. Then double-click on the downloaded file and 1Blocker will install it automatically.
+## Download
+
+<a href="https://raw.githubusercontent.com/wr/1blocker-calmweb/master/Calm%20Web.1blockpkg" download><img src="https://raw.githubusercontent.com/wr/1blocker-calmweb/master/download@2x.png" height="53" alt="download button"></a>
+
+Simply download and double-click on the file and 1Blocker will install it automatically.
 
 You can find the custom rules in **1Blocker &rsaquo; Custom &rsaquo; Calm Web**.
 
